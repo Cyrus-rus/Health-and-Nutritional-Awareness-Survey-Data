@@ -41,12 +41,3 @@ Process Workflow:
 - Integrate clinical biomarkers (lipid profile, glucose levels).  
 - Expand sample size for broader generalization.  
 
-👨‍💻 Author
-Mayur Singh  
-🎓 B.Sc. Statistics (T.Y.) – MES Abasaheb Garware College, Pune  
-📅 Academic Year: 2025–26  
-📬 *Focus:* Statistical Health Analytics | *Tools:* Python, R  
-📈 *Goal:* Using data science to bridge the gap between health knowledge and lifestyle practice.  
-
-
-Would you like me to also generate a **`requirements.txt`** (Python dependencies) to include in the repo next? It helps others (and recruiters) easily reproduce your analysis.
